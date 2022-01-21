@@ -1,4 +1,13 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8B8B8&vCenter=true&multiline=true&lines=Hello+my+name+is+Emil.)](https://git.io/typing-svg)
+---
+I'm a systemdev student.
+
+
+
+I'll update this eventually :upside_down_face:
+
+
+
 
 <!--
 **EmilWallin/EmilWallin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
