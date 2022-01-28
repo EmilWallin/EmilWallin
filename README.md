@@ -2,20 +2,24 @@
 ---
 I'm a systemdev student. 
 
-I'm probably working on some React application
+I'm probably working on some React application.
 
 ## Skills
 
 
-<img src="https://github.com/EmilWallin/EmilWallin/blob/1849ad55a59182541a50a8b670e985d90c32415a/Assets/C%23.svg" alt="C# Logo" width="40" title="C#"/> &nbsp; <img src="https://github.com/EmilWallin/EmilWallin/blob/1849ad55a59182541a50a8b670e985d90c32415a/Assets/javascript.png" alt="Javascript Logo" width="40" title="Javascript"/>
+<img src="https://github.com/EmilWallin/EmilWallin/blob/1849ad55a59182541a50a8b670e985d90c32415a/Assets/C%23.svg" alt="C# Logo" width="50" title="C#"/> &nbsp; <img src="https://github.com/EmilWallin/EmilWallin/blob/1849ad55a59182541a50a8b670e985d90c32415a/Assets/javascript.png" alt="Javascript Logo" width="50" title="Javascript"/>
 
-<img src="https://github.com/EmilWallin/EmilWallin/blob/47fd039ff81a9609117d15274f11f543dee4e9ad/Assets/html.svg" alt="HTML 5 Logo" width="40" title="HTML 5"/> &nbsp; <img src="https://github.com/EmilWallin/EmilWallin/blob/a4d1a0fb23788e1fdedb41d59cc346968cac0c2d/Assets/css.svg" alt="CSS 3 Logo" width="40" title="CSS 3"/>
+<img src="https://github.com/EmilWallin/EmilWallin/blob/47fd039ff81a9609117d15274f11f543dee4e9ad/Assets/html.svg" alt="HTML 5 Logo" width="50" title="HTML 5"/> &nbsp; <img src="https://github.com/EmilWallin/EmilWallin/blob/a4d1a0fb23788e1fdedb41d59cc346968cac0c2d/Assets/css.svg" alt="CSS 3 Logo" width="50" title="CSS 3"/>
 
-<img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/java.svg" alt="Java Logo" width="40" title="Java"/>
+<img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/java.svg" alt="Java Logo" width="50" title="Java"/>
 
 ## Learning
-<img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/react.svg" alt="React Logo" width="40" title="React"/> &nbsp; <img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/typescript.png" alt="Typescript Logo" width="40" title="Typescript"/>
+<img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/react.svg" alt="React Logo" width="50" title="React"/> &nbsp; <img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/typescript.png" alt="Typescript Logo" width="50" title="Typescript"/>
 
+&nbsp;
+
+## Contact
+<a href="https://www.linkedin.com/in/emil-wallin-3141671a4/"><img src="https://github.com/EmilWallin/EmilWallin/blob/76cf8c801fd7b7234cf6e2c0fdb65030992aa9f3/Assets/linkedin.svg" alt="Linkedin Logo" width="50" title="Linkedin profile"/></a>
 
 &nbsp;
 
