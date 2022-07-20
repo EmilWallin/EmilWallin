@@ -20,6 +20,7 @@ I'm probably working on some React application.
 
 ## Contact
 <a href="https://www.linkedin.com/in/emil-wallin-3141671a4/"><img src="https://github.com/EmilWallin/EmilWallin/blob/76cf8c801fd7b7234cf6e2c0fdb65030992aa9f3/Assets/linkedin.svg" alt="Linkedin Logo" width="50" title="Linkedin profile"/></a>
+<a href="https://gitlab.com/EmilWallin"><img src="https://github.com/EmilWallin/EmilWallin/blob/ed38dcae4be539980ab43e7e555ed264723ebf1e/Assets/gitlab.svg" alt="GitLab Logo" width="50" title="GitLab profile"/></a>
 
 &nbsp;
 
