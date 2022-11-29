@@ -11,10 +11,10 @@ I'm probably working on some React application.
 
 <img src="https://github.com/EmilWallin/EmilWallin/blob/47fd039ff81a9609117d15274f11f543dee4e9ad/Assets/html.svg" alt="HTML 5 Logo" width="50" title="HTML 5"/> &nbsp; <img src="https://github.com/EmilWallin/EmilWallin/blob/a4d1a0fb23788e1fdedb41d59cc346968cac0c2d/Assets/css.svg" alt="CSS 3 Logo" width="50" title="CSS 3"/>
 
-<img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/java.svg" alt="Java Logo" width="50" title="Java"/>
+<img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/react.svg" alt="React Logo" width="50" title="React"/>
 
 ## Learning
-<img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/react.svg" alt="React Logo" width="50" title="React"/> &nbsp; <img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/typescript.png" alt="Typescript Logo" width="50" title="Typescript"/>
+ <img src="https://github.com/EmilWallin/EmilWallin/blob/f8c81f646a1c5bc4cf0879c94de43dae49db4f50/Assets/svelte.svg" alt="Svelte Logo" width="50" title="Svelte/Sveltekit"/>&nbsp;<img src="https://github.com/EmilWallin/EmilWallin/blob/f8c81f646a1c5bc4cf0879c94de43dae49db4f50/Assets/sass.svg" alt="Sass Logo" width="50" title="Sass/Scss"/> &nbsp; <img src="https://github.com/EmilWallin/EmilWallin/blob/48d226803d47fe8dcf897a353ae0830cbce5effd/Assets/typescript.png" alt="Typescript Logo" width="50" title="Typescript"/>
 
 &nbsp;
 
