@@ -2,7 +2,7 @@
 ---
 I'm a systemdev student. 
 
-I'm probably working on some React application.
+I'm probably working on some web application.
 
 ## Skills
 
