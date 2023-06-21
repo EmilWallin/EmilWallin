@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B8B8B8&vCenter=true&multiline=true&lines=Hello+my+name+is+Emil.)](https://git.io/typing-svg)
 ---
-I'm a systemdev student. 
+I'm a software dev. 
 
 I'm probably working on some web application.
 
